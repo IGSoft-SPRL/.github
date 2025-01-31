@@ -9,7 +9,7 @@
 ## 📊 Statistiques de l'organisation
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IGSoft&show_icons=true&theme=dark" alt="Stats GitHub de l'organisation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IGSoft-SPRL&show_icons=true&theme=dark" alt="Stats GitHub de l'organisation" />
 </p>
 
 ---
