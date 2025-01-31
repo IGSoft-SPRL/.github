@@ -44,5 +44,3 @@
 </table>
 
 ---
-
-## 🚀 Suivez nos projets et notre évolution chez IGSoft-SPRL ! 🚀
