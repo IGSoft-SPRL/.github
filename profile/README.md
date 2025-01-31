@@ -9,7 +9,7 @@
 ## 📊 Statistiques de l'organisation
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IGSoft-SPRL&show_icons=true&theme=dark" alt="Stats GitHub de l'organisation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IGSoft&show_icons=true&theme=dark" alt="Stats GitHub de l'organisation" />
 </p>
 
 ---
@@ -24,9 +24,13 @@
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=MADrickx&show_icons=true&theme=dark" alt="Stats de MADrickx" />
+      <br />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MADrickx&theme=dark" alt="Streak Stats de MADrickx" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=faking-it&show_icons=true&theme=dark" alt="Stats de faking-it" />
+      <br />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=faking-it&theme=dark" alt="Streak Stats de faking-it" />
     </td>
   </tr>
   <tr>
@@ -36,9 +40,13 @@
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=rubenlm25&show_icons=true&theme=dark" alt="Stats de rubenlm25" />
+      <br />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rubenlm25&theme=dark" alt="Streak Stats de rubenlm25" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=KsarKev&show_icons=true&theme=dark" alt="Stats de KsarKev" />
+      <br />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=KsarKev&theme=dark" alt="Streak Stats de KsarKev" />
     </td>
   </tr>
 </table>
